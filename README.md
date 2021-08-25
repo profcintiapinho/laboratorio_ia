@@ -6,7 +6,7 @@ Material referente ao Curso de Introdução a Python - Laboratório de IA - CPS
   <ul>
 
     <li>Melhorar as práticas integralizadas entre currículo e conhecimento, integrando a Inteligência Artificial nos cursos técnicos do CPS;</li>
-   <li> Proporcionar a melhoria de relacionamento técnico e científico para as unidades do Centro Paula Souza;</li>
+    <li>Proporcionar a melhoria de relacionamento técnico e científico para as unidades do Centro Paula Souza;</li>
     <li>Realizar ensaios que envolvam a Inteligência Artificial.</li>
   
   </ul>
