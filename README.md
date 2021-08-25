@@ -1,14 +1,13 @@
 # Laboratório de Inteligência Artificial - CPS
 Material referente ao Curso de Introdução a Python - Laboratório de IA - CPS
 <h2> Projeto "O cubo" do Centro Paula Souza</h2>
-<h3>Objetivo:</h3>
+<h3><u>Objetivo</u></h3>
+<p>Melhorar as práticas integralizadas entre currículo e conhecimento, integrando a Inteligência Artificial nos cursos técnicos do CPS;</p>
+<p>Proporcionar a melhoria de relacionamento técnico e científico para as unidades do Centro Paula Souza;</p>
+<p>Realizar ensaios que envolvam a Inteligência Artificial.</p>
 
-  <ul>
-
-    <li>Melhorar as práticas integralizadas entre currículo e conhecimento, integrando a Inteligência Artificial nos cursos técnicos do CPS;</li>
-    <li>Proporcionar a melhoria de relacionamento técnico e científico para as unidades do Centro Paula Souza;</li>
-    <li>Realizar ensaios que envolvam a Inteligência Artificial.</li>
+<h4>Aqui você terá uma introdução a linguagem PYTHON, Ciências de Dados e uma nocão de Processamento de Linguagem Natural</h4>
   
-  </ul>
+
 
 
