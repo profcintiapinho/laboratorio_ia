@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=M13p7EHA6Ro&list=PLLxTDONTQvEcMOxDREnHl3NDIx_JU_
 
 <h2>PROGRAMAÇÃO DO CURSO - 15/09 A 17/11</h2>
 
-<p> 15/09 - aULA INTRODUTÓRIA </p>
+<p> 15/09 - AULA INTRODUTÓRIA </p>
 <p> 22/09 - Análise Incrições - Alguns Gráficos e Nuvens de Palavras </p>
 <p> 27/09 - Continuação Nuvens de Palavras - Números e Variáveis com Python </p>
 <p> 03/10 - Manipulação de Strings com Python </p>
