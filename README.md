@@ -18,10 +18,10 @@ https://www.youtube.com/watch?v=M13p7EHA6Ro&list=PLLxTDONTQvEcMOxDREnHl3NDIx_JU_
 
 <p> 15/09 - AULA INTRODUTÓRIA </p>
 <p> 22/09 - Análise Incrições - Alguns Gráficos e Nuvens de Palavras </p>
-<p> 27/09 - Continuação Nuvens de Palavras - Números e Variáveis com Python </p>
-<p> 03/10 - Manipulação de Strings com Python </p>
-<p> 17/10 - Listas, Tuplas e Dicionários </p>
-<p> 24/10 - Condicionais e Laços de Repetição </p>
+<p> 29/09 - Continuação Nuvens de Palavras - Números e Variáveis com Python </p>
+<p> 06/10 - Manipulação de Strings com Python </p>
+<p> 20/10 - Listas, Tuplas e Dicionários </p>
+<p> 27/10 - Condicionais e Laços de Repetição </p>
 <p> 03/11 - Funções com Pyhton </p>
 <p> 10/11 - Análise de Dados - Previsões </p>
 <p> 17/11 - Análise de Dados - Previsões </p>
