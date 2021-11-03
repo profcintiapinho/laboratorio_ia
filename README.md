@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=M13p7EHA6Ro&list=PLLxTDONTQvEcMOxDREnHl3NDIx_JU_
 <p> 06/10 - Manipulação de Strings com Python </p>
 <p> 20/10 - Listas, Tuplas e Dicionários </p>
 <p> 27/10 - Condicionais e Laços de Repetição </p>
+Teste seus conhecimentos até esse ponto, Quiz!!!
+https://forms.gle/vymBpg76ZB1QeL8q6
 <p> 03/11 - Funções com Pyhton </p>
 <p> 10/11 - Análise de Dados - Previsões </p>
 <p> 17/11 - Análise de Dados - Previsões </p>
