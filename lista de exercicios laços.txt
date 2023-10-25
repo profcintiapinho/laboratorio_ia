@@ -1,0 +1,25 @@
+
+1. Faça um algoritmo que escreva na tela os números de um número inicial a um número final. Os números inicial e final devem ser informados pelo usuário;
+  sei a quantidade
+2.Escrever um algoritmo que imprima a tabuada de um número informado pelo usuário; 
+
+Exemplo: 4
+
+4X1=4
+4X2=8
+4X3=12
+4X4 = 16
+.
+.
+.
+3.Escrever um algoritmo que gera e escreve os números ímpares entre 100 e 200;
+
+4. Faça um programa que solicite cod da conta(exemplo: 122345) e senha(exemplo: 1234), o programa deve verificar o usuário e senha e tentar até três vezes para receber a senha correta, caso contrario o cartão é cancelado se digitar errado 3 vezes.
+
+5. Depois do Código anterior, caso o usuário digite o usuário e senha corretos o programa deve da a oportunidade do usuario escolher a operação a ser feita: Saque, depósito ou ver saldo, 
+caso escolha saque ==> subtraia o valor do saque do seu saldo, 
+caso escolha depósito ==> some o valor do depósito ao seu saldo,
+caso escolha saldo ==> mostre o saldo.
+caso escolha sair ==> sai do programa
+
+6. Escreva um algoritmo que leia valores inteiros e encontre o maior e o menor deles. Termine a leitura se o usuário digitar zero (0);
